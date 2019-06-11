@@ -1,0 +1,39 @@
+-- ===================
+-- INTERNAL
+-- ===================
+
+Receita:
+- distribuição da curva da receita
+	* Objetivo: Analisar o comportamento das vendas
+- visualizar o comportamento da receita:
+	- dia da semana - ok
+	- dia - ok
+	- mês - ok
+	* Objetivo: Analisar o comportamento das vendas de acordo com o tempo.
+
+Quantidade:
+- Analisar a relação entre quantidade e a receita.
+- Verificar se há alguma possível correlação entre elas.
+- Quantidade vendida por tempo.
+
+Produto:
+- boxplot das receitas por produto.
+- boxplot das quantidades por produto.
+- 
+
+
+-- ===================
+-- COMPETITOR
+-- ===================
+
+Preço
+- 
+
+Produto
+-
+
+Competidor
+-
+
+Tipo de Pagamento
+-
